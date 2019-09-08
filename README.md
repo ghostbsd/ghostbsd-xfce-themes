@@ -1,0 +1,1 @@
+# ghostbsd-xfce-theme
